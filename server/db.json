@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "name": "Dennis Yeung",
+      "email": "dennis.yeung@taiger.com",
+      "phone": "87893893",
+      "id": 2
+    },
+    {
+      "name": "Tauhid Jalil",
+      "email": "tauhid.jalil@taiger.com",
+      "phone": "81237828",
+      "id": 3
+    },
+    {
+      "name": "Terence Poon ",
+      "email": "terence.poon@taiger.com",
+      "phone": "91011999",
+      "id": 5
+    }
+  ]
+}
