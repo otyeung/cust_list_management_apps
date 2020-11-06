@@ -1,6 +1,9 @@
 {
   "name": "customer-management-app",
   "version": "0.1.0",
+  "engines": {
+    "yarn": "1.x"
+  },
   "private": true,
   "dependencies": {
     "@types/jest": "24.0.11",
